@@ -8,19 +8,10 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-
    preperation.rst
    login.rst
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 =======================================
 Migrate from HPC to Cluster (Cartesius) 
